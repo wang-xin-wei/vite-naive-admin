@@ -12,6 +12,4 @@ import { NConfigProvider, zhCN, dateZhCN, darkTheme } from 'naive-ui'
   </n-config-provider>
 </template>
 
-<style>
-
-</style>
+<style></style>
